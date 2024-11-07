@@ -1,2 +1,2 @@
-# stajdeneme
-staj besinci gün projesi
+# Deneme
+test projesi
